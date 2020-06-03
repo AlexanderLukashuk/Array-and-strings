@@ -1,0 +1,10 @@
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/arrayPractice/bin/Debug/netcoreapp3.1/arrayPractice.deps.json
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/arrayPractice/bin/Debug/netcoreapp3.1/arrayPractice.runtimeconfig.json
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/arrayPractice/bin/Debug/netcoreapp3.1/arrayPractice.runtimeconfig.dev.json
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/arrayPractice/bin/Debug/netcoreapp3.1/arrayPractice.dll
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/arrayPractice/bin/Debug/netcoreapp3.1/arrayPractice.pdb
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/arrayPractice/obj/Debug/netcoreapp3.1/arrayPractice.csprojAssemblyReference.cache
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/arrayPractice/obj/Debug/netcoreapp3.1/arrayPractice.AssemblyInfoInputs.cache
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/arrayPractice/obj/Debug/netcoreapp3.1/arrayPractice.AssemblyInfo.cs
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/arrayPractice/obj/Debug/netcoreapp3.1/arrayPractice.dll
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/arrayPractice/obj/Debug/netcoreapp3.1/arrayPractice.pdb

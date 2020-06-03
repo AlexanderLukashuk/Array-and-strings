@@ -1,0 +1,10 @@
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/ArraysAndStrings/homework/bin/Debug/netcoreapp3.1/homework.deps.json
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/ArraysAndStrings/homework/bin/Debug/netcoreapp3.1/homework.runtimeconfig.json
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/ArraysAndStrings/homework/bin/Debug/netcoreapp3.1/homework.runtimeconfig.dev.json
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/ArraysAndStrings/homework/bin/Debug/netcoreapp3.1/homework.dll
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/ArraysAndStrings/homework/bin/Debug/netcoreapp3.1/homework.pdb
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/ArraysAndStrings/homework/obj/Debug/netcoreapp3.1/homework.csprojAssemblyReference.cache
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/ArraysAndStrings/homework/obj/Debug/netcoreapp3.1/homework.AssemblyInfoInputs.cache
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/ArraysAndStrings/homework/obj/Debug/netcoreapp3.1/homework.AssemblyInfo.cs
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/ArraysAndStrings/homework/obj/Debug/netcoreapp3.1/homework.dll
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/ArraysAndStrings/homework/obj/Debug/netcoreapp3.1/homework.pdb
